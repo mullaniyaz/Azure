@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2020-11-05T14:22:41.8078991Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "cloud-shell-storage-eastus"
+    },
+    "storage1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "19969c81-e8ff-4585-8c2f-3f196b588227"
+    }
+  }
+}
