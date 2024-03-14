@@ -66,3 +66,4 @@ C:\Sandbox\.NET\func-orchestration\FuncDeploymentDemo\bin\Debug\net8.0\Newtonsof
 C:\Sandbox\.NET\func-orchestration\FuncDeploymentDemo\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Sandbox\.NET\func-orchestration\FuncDeploymentDemo\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Sandbox\.NET\func-orchestration\FuncDeploymentDemo\bin\Debug\net8.0\Microsoft.WindowsAzure.Storage.dll
+C:\Sandbox\.NET\func-orchestration\FuncDeploymentDemo\obj\Debug\net8.0\FuncDeploymentDemo.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncDeploymentDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ee663d0e7f80d0d2f1b6f1542b253dadf4f15f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncDeploymentDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncDeploymentDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
